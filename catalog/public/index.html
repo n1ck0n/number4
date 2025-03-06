@@ -153,6 +153,7 @@
         products {
           name
           price
+          description
         }
       }
     `;
@@ -171,6 +172,7 @@
           <div class="product-card-content">
             <strong>${product.name}</strong>
             <span>₽${product.price}</span>
+            <span>${product.description}</span>
           </div>
         `;
         catalogDiv.appendChild(card);
