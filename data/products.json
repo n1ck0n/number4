@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Кроссовки",
+    "price": 11000,
+    "description": "кроссовочки",
+    "categories": [
+      "Обувь"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук",
+    "price": 230000,
+    "description": "компуктер",
+    "categories": [
+      "Техника"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Туфли",
+    "price": 15000,
+    "description": "туфельки",
+    "categories": [
+      "Обувь",
+      "Одежда"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Телефон",
+    "price": 34000,
+    "description": "звонилка",
+    "categories": [
+      "Техника"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Бананы",
+    "price": 299,
+    "description": "с пальмы",
+    "categories": [
+      "Еда"
+    ]
+  }
+]
